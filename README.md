@@ -11,11 +11,12 @@
 
 
 В данный момент реализованы следующие задачи: 
-[Ян в качалке] ()
+[Ян в качалке] (https://github.com/INVESTOR-IT/Yandex-tasks/tree/main/Ян%20в%20качалке)
 
 
 В будущем буду реализованы следующие задачи: 
 [Компьютерная игра](https://github.com/INVESTOR-IT/Yandex-tasks)
+
 [День сырка](https://github.com/INVESTOR-IT/Yandex-tasks)
 [Робот-пылесос](https://github.com/INVESTOR-IT/Yandex-tasks)
 [Время ожидания](https://github.com/INVESTOR-IT/Yandex-tasks)
