@@ -30,14 +30,14 @@ def second_option(n, k):
     return second_solution.output_left_and_right_borders(*result)
 
 
-# Первый тест с маленькими числами
+# Тест с малом количеством друзей
 print(first_option(100, 20))
 print(second_option(100, 20))
 
-# Первый тест с средними числами
+# Тест с средним количеством друзей
 print(first_option(100, 30))
 print(second_option(100, 30))
 
-# Первый тест с большими числами
+# Тест с большим количеством друзей
 print(first_option(100, 90))
 print(second_option(100, 90))
