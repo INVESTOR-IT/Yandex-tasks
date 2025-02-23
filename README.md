@@ -31,4 +31,4 @@
 
 ### По всем вопросам, предложениям или критики:
 [Telegram](https://t.me/IINVESTOR_IT)<br>
-[Почтам](modek@mail.ru)<br>
+modek@mail.ru<br>
